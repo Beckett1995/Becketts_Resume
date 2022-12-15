@@ -19,6 +19,8 @@ Student at Brigham Young University - Idaho.
 `2018-2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+Financial Economics; International Studies; Data Science
+
 - 3.2 GPA
 
 `Expected Graduation Spring/Fall 2023`
